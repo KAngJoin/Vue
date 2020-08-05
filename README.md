@@ -1,2 +1,2 @@
 # Vue
-vue learning
+The code to learn of vue.
